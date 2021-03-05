@@ -18,7 +18,7 @@
 
 <hr />
 
-By denoting a complex number, $z$, as a point $(x, y)$, we may plot $z$ as if it were a point on the Cartesian plane, such that (see [Figure 1](<./cartesian-plot.ipynb>)):
+By denoting a complex number, $z$, as a point $(x, y)$, we may plot $z$ as if it were a point on the Cartesian plane, such that (see [Figure 1](cartesian-plot.ipynb)):
 
 $$z = (x, y)$$
 
@@ -48,7 +48,7 @@ $$(x_{1}, 0) + (x_{2}, 0) = (x_{1} + x_{2}, 0)$$
 
 $$\forall z_{1}, z_{2} \in \mathbb{C}, z_{1} + z_{2} = (x_{1}, y_{1}) + (x_{2}, y_{2})  = (x_{1} + x_{2}, y_{1} + y_{2})$$
 
-_[proof](<./Proposition 1-1a.md>)_
+_[proof](proposition-1-1a.md)_
 
 ### Operation: Multiplication
 
